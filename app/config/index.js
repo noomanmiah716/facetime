@@ -1,3 +1,3 @@
 export const API_URL = "https://erosback.vercel.app";
 
-export const site = "facetime-eight.vercel.app";
+export const site = "chatfacetimevideo.site";
